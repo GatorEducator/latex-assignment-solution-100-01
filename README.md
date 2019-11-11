@@ -1,10 +1,10 @@
-# GatorGrader Sample Laboratory Assignment
+# GatorGrader Solution Laboratory Assignment for LaTex
 
 ## Task list for assignment creation
 
 - Use `cp -rf *.*` to copy all of the files and directories in this repository
-  to the starter repository for this assignment
-- Change into the directory for the starter repository
+  to the solution repository for this assignment
+- Change into the directory for the solution repository
 - Update the header (`#`) to only give the name of the assignment
 - Update the text below according to the `UPDATE` comment tags
 - Comment out or delete this task list, and any other development notes
@@ -21,7 +21,7 @@
 <!-- UPDATE: describe what this repository contains -->
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains an example assignment for use with GatorGrader and
+repository contains a solution assignment for use with GatorGrader and
 GatorGradle. Since the Travis builds for this repository will initially fail
 (as evidenced by a red &#x2717; appearing in the commit logs instead of a green
 &#x2714;), the programmer is responsible for completing all of the steps needed
